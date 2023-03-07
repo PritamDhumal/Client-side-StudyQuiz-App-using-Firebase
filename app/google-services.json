@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "350050940393",
+    "firebase_url": "https://study-quiz-eb310-default-rtdb.firebaseio.com",
+    "project_id": "study-quiz-eb310",
+    "storage_bucket": "study-quiz-eb310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350050940393:android:d11ffa3d40b82eeaa9c778",
+        "android_client_info": {
+          "package_name": "com.dhumal.studyquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350050940393-jld1nmgk3altfl2q139j7aat4ch3b5i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1HR2k01Qx9u5QLWfoNo7PUPXdES84tww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350050940393-jld1nmgk3altfl2q139j7aat4ch3b5i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350050940393:android:791410577a0d00aca9c778",
+        "android_client_info": {
+          "package_name": "com.dhumal.studyquizadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350050940393-jld1nmgk3altfl2q139j7aat4ch3b5i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1HR2k01Qx9u5QLWfoNo7PUPXdES84tww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350050940393-jld1nmgk3altfl2q139j7aat4ch3b5i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
